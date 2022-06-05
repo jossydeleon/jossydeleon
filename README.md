@@ -3,9 +3,9 @@
 
 ## :smiley: About me
 
-Hi, coders I am Josymar De Leon, currently in United States. Mobile/Web Developer and father of a beatiful princess.
+Hi coders,  I am Josymar, Mobile/Web Developer and father of a beatiful princess.
 
-Currently I am working with ReactJs, React Native, Node and Android (Java).
+Fullstack Node Js Developer (MERN stack, React Native)
 
 Check my portfolio and see what can I do [Portfolio](https://josymardeleon.com)
 
